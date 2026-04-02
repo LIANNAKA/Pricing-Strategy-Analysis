@@ -5,23 +5,26 @@ A data-driven pricing analytics project that combines API data, web scraping, an
 
 ## 🚀 Features
 
-- 📦 FakeStore API integration
-- 🏷️ Category-wise pricing analysis
-- 📊 Competitor benchmarking
-- 💡 Pricing recommendations engine
-- 📈 Revenue & margin simulation
-- 🔮 What-if pricing simulator (interactive)
-- 📉 Streamlit dashboard with Plotly visualizations
+
+- 📦 **API Integration** – Fetches real-time product data from FakeStore API  
+- 📊 **Category Analysis** – Price distribution, category trends, and statistics 
+- 🏁 **Competitor Benchmarking** – Compare product prices with competitors  
+- 💡 **Pricing Recommendations** – Rule-based strategy suggestions  
+- 📈 **Revenue & Margin Simulation** – Estimate profit and business impact  
+- 🔮 **What-if Pricing Simulator** – Adjust prices and observe changes  
+- 🛍️ **Product Explorer** – Interactive filtering and visualization  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Python (Pandas, NumPy)
-- Streamlit
-- Plotly
-- BeautifulSoup (Web Scraping)
-- RapidFuzz (Product Matching)
+- **Python**
+- **Pandas & NumPy** (Data Processing)
+- **Streamlit** (Dashboard)
+- **Plotly** (Interactive Visualizations)
+- **Requests** (API Integration)
+- **BeautifulSoup** (Web Scraping)
+- **RapidFuzz** (Product Matching)
 
 ---
 
