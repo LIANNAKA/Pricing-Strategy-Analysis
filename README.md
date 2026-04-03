@@ -1,6 +1,8 @@
 # Pricing-Strategy-Analysis
 🚀 An end-to-end data analytics project that analyzes product pricing, benchmarks competitors, and generates actionable pricing recommendations through an interactive dashboard.
+
 👉 Live Demo: https://pricing-strategy-analysis-anzdn2ddrbjnc9rvvzn7aq.streamlit.app/
+
 🎯Pricing decisions directly impact revenue, competitiveness, and customer behavior.
 This project simulates how businesses can use data-driven insights to optimize pricing strategies.
 
