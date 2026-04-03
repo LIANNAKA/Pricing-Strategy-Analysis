@@ -1,5 +1,8 @@
 # Pricing-Strategy-Analysis
-A data-driven pricing analytics project that combines API data, web scraping, and competitor benchmarking to generate pricing insights and recommendations.
+🚀 An end-to-end data analytics project that analyzes product pricing, benchmarks competitors, and generates actionable pricing recommendations through an interactive dashboard.
+👉 Live Demo: https://pricing-strategy-analysis-anzdn2ddrbjnc9rvvzn7aq.streamlit.app/
+🎯Pricing decisions directly impact revenue, competitiveness, and customer behavior.
+This project simulates how businesses can use data-driven insights to optimize pricing strategies.
 
 ---
 
@@ -12,7 +15,8 @@ A data-driven pricing analytics project that combines API data, web scraping, an
 - 💡 **Pricing Recommendations** – Rule-based strategy suggestions  
 - 📈 **Revenue & Margin Simulation** – Estimate profit and business impact  
 - 🔮 **What-if Pricing Simulator** – Adjust prices and observe changes  
-- 🛍️ **Product Explorer** – Interactive filtering and visualization  
+- 🛍️ **Product Explorer** – Interactive filtering and visualization
+- 🌐 **Deployment** - Hosted on Streamlit Cloud, Supports Live API fetching , Cached fallback system 
 
 ---
 
@@ -27,10 +31,3 @@ A data-driven pricing analytics project that combines API data, web scraping, an
 - **RapidFuzz** (Product Matching)
 
 ---
-
-## 📊 Dashboard Preview
-
-Run locally:
-
-```bash
-streamlit run dashboard.py
